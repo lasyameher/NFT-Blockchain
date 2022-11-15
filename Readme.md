@@ -19,7 +19,7 @@ Git Repository link https://github.com/lasyameher/NFT-Blockchain.git
 
 
 ## Steps to Run
-1. Downloaded and installed the latest vertion of Python.
+1. Downloaded and installed the latest version of Python.
 2. Install the dependencies with `pip install -r requirements.txt`.
 3. Installed Flask with `pip install flask`.
 4. To run the server used `flask run` command.
