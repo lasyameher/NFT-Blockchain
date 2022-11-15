@@ -1,5 +1,9 @@
 # Creating Own NFT
 
+Name: Meher Lasya Papineni
+
+Email: papim01@pfw.edu
+
 Git Repository link https://github.com/lasyameher/NFT-Blockchain.git
 
 ## Moralis server connection and NFT creation
